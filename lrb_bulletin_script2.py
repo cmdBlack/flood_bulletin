@@ -688,6 +688,27 @@ callusa_wl_val.setText(callusa_val)
 manalpac_wl_val.setText(manalpac_val)
 madongan_wl_val.setText(madongan_val)
 
+x_fcolor2(wl_gilbert_stat,gilbert_wl_val)
+x_stat_bgcolor(wl_gilbert_stat,gilbert_wl_val)
+
+x_fcolor2(wl_sarrat_stat,sarrat_wl_val)
+x_stat_bgcolor(wl_sarrat_stat,sarrat_wl_val)
+
+x_fcolor2(wl_darasdas_stat,darasdas_wl_val)
+x_stat_bgcolor(wl_darasdas_stat,darasdas_wl_val)
+
+x_fcolor2(wl_tabtabagan_stat,tabtabagan_wl_val)
+x_stat_bgcolor(wl_tabtabagan_stat,tabtabagan_wl_val)
+
+x_fcolor2(wl_callusa_stat,callusa_wl_val)
+x_stat_bgcolor(wl_callusa_stat,callusa_wl_val)
+
+x_fcolor2(wl_manalpac_stat,manalpac_wl_val)
+x_stat_bgcolor(wl_manalpac_stat,manalpac_wl_val)
+
+x_fcolor2(wl_madongan_stat,madongan_wl_val)
+x_stat_bgcolor(wl_madongan_stat,madongan_wl_val)
+
 impact_gilbert.setText(gilbert_imp)
 text_format.setSize(adjust_fsize(gilbert_imp))
 impact_gilbert.setTextFormat(text_format)
